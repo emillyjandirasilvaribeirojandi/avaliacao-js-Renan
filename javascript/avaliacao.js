@@ -22,9 +22,3 @@ resultado =12
 
 'atividade da perguntas3'
 
-// vc acabou misturando algumas coisas, nesse caso, vc nao usa console.log, somente alert e prompt, a parte da 2 ta indo bem, mas nao esta 100%, tente rever o que fizemos em aula
-// vc pode baixar aquele repositório que te mostrei agor pouco, assim consegue rever algumas coisas, 
-
-
-/// o unico arquivo que nao presta nesse repositório é o index.js, o restante vc pode revisar com calma, eles seguem a mesma lógica dessa sua atividade 2, tendeu?
-// belezinha, vc ta indo bem, só precisa praticar um pouco mais, na proxima aula revisamos, depois vc tira de letra (=
